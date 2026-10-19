@@ -25,7 +25,19 @@ Não serão fornecidos protótipos, arquitetura ou componentes visuais. Utilize 
 
 ### Espaço para propor
 
-Os requisitos acima são o mínimo. Fique à vontade para incluir funcionalidades e melhorias que você julgar necessárias, seja para o cliente, seja para a operação. Queremos ver o que você enxerga como importante sem que a gente precise pedir. Isso conta diretamente no critério de **capacidade propositiva**.
+Os requisitos da seção 2 são o ponto de partida, não o teto. Queremos ver o que você faria se este produto fosse seu.
+
+Um caminho para pensar: coloque-se no lugar de quem usa e de quem depende deste serviço. De um lado, o cliente, que preenche os dados e fica esperando a resposta. Do outro, a empresa, que depende de bancos que ela não controla.
+
+No `README.md`, apresente cada proposta assim:
+
+1. **Problema:** o que você identificou.
+2. **Proposta:** o que você fez ou faria.
+3. **Por quê:** o que isso muda para o cliente ou para a operação.
+
+Separe o que foi **implementado** do que ficou só **planejado**. As planejadas vão em **ordem de prioridade**: o que você faria primeiro se tivesse mais uma semana.
+
+Avaliamos a coerência das propostas com o problema, não a quantidade. Uma proposta bem justificada vale mais do que dez soltas.
 
 ## 4. Critérios de avaliação (100 pontos)
 
@@ -44,7 +56,7 @@ Disponibilize o código em um repositório Git com um `README.md` contendo:
 - decisões técnicas;
 - limitações.
 
-Descreva também as melhorias e proposições realizadas ou planejadas para o contexto do problema, explicando como facilitam o uso pelo cliente ou ampliam a segurança, a qualidade e a infraestrutura do serviço.
+Descreva também as melhorias e proposições realizadas ou planejadas para o contexto do problema, explicando como facilitam o uso pelo cliente ou ampliam a segurança, a qualidade e a infraestrutura do serviço, no formato descrito em **Espaço para propor**.
 
 ### Prazo
 
