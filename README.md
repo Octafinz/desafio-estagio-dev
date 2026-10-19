@@ -46,6 +46,10 @@ Disponibilize o código em um repositório Git com um `README.md` contendo:
 
 Descreva também as melhorias e proposições realizadas ou planejadas para o contexto do problema, explicando como facilitam o uso pelo cliente ou ampliam a segurança, a qualidade e a infraestrutura do serviço.
 
+### Prazo
+
+**5 dias corridos**, contados a partir do recebimento deste desafio.
+
 ### Como enviar
 
 Envie o link do seu repositório para **elias.santos@octafin.com.br** com o assunto **"Estágio Dev"**.
